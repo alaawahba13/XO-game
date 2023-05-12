@@ -29,10 +29,17 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Authors
 -Alaa Wahba
+
 -Nardeen Sobhy 
+
 -Gehad Alaa
+
 -Roaa Ayman 
+
 -Noha Ahmed
+
 -Roaa Morsy
+
 -Mariam Rafaat
+
 -Eman Mohamed
