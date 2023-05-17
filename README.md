@@ -25,8 +25,8 @@ To start a new game, click on the "New Game" button.
 
 ## Authors
 
-
 This code was developed by 
+
 - [@Alaa Wahba](https://github.com/alaawahba13)
 - [@Gehad Alaa ](https://github.com/Gehad799)
 - [@Roaa Gawish ](https://github.com/roaagawish)
