@@ -23,23 +23,16 @@ To start a new game, click on the "New Game" button.
 
 
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Authors
--Alaa Wahba
 
--Nardeen Sobhy 
 
--Gehad Alaa
+This code was developed by 
+- [@Alaa Wahba](https://github.com/alaawahba13)
+- [@Gehad Alaa ](https://github.com/Gehad799)
+- [@Roaa Gawish ](https://github.com/roaagawish)
+- [@Narden Sobhy](https://github.com/NardenSobhy)
+- [@Noha Ahmed](https://github.com/NohaAhmed01)
+- Roaa Morsy
+- Eman Mohamed
+- Mariam Raafat
 
--Roaa Ayman 
-
--Noha Ahmed
-
--Roaa Morsy
-
--Mariam Rafaat
-
--Eman Mohamed
